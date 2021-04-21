@@ -1,0 +1,13 @@
+fieldset {
+  padding: 1%;
+  height: 1%;
+}
+
+#logo {
+  width: 50%;
+  height: 50%;
+}
+
+.panel-heading {
+  font-size: 100%;
+}
